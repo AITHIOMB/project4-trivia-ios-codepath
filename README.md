@@ -2,9 +2,9 @@
 
 Submitted by: Aissatou Thiombane
 
-**Name of your app** is an app that ... [TODO] 
+Trivia is an app that will be fetching real trivia data from the Open Trivia Database API
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -29,9 +29,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/675e67f3f0a64d5b935ba8eeea65ed40">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/675e67f3f0a64d5b935ba8eeea65ed40-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
@@ -39,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Aissatou Thiombane
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
